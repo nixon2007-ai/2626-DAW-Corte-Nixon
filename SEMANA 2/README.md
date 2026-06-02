@@ -5,7 +5,7 @@
 
 Este proyecto corresponde a la Tarea de la Semana 2 de la asignatura Desarrollo de Aplicaciones Web.
 
-La página web fue desarrollada utilizando HTML y contiene una estructura básica con encabezados que presentan información sobre un sistema de gestión y venta de celulares por el momenot no funciona mas por que es una tarea de la semana 2.
+La página web fue desarrollada utilizando HTML y contiene una estructura básica con encabezados que presentan información sobre un sistema de gestión y venta de celulares por el momento no funciona mas de lo normal por que es una tarea de la semana 2.
 
 ## Contenido de la página
 
