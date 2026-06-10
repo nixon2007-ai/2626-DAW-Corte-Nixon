@@ -10,14 +10,13 @@ La página presenta información sobre el emprendimiento, sus productos y servic
 
 * Estructura completa en HTML5.
 * Uso de etiquetas semánticas:
-
-  * Header
-  * Nav
-  * Main
-  * Section
-  * Article
-  * Aside
-  * Footer
+ - Header
+ - Nav
+ - Main
+ - Section
+ - Article
+ - Aside
+ - Footer
 * Menú de navegación interno.
 * Sección de presentación del proyecto.
 * Información institucional (Quiénes Somos).
@@ -61,3 +60,9 @@ Desarrollo de Aplicaciones Web
 ## Objetivo Académico
 
 Aplicar los conocimientos adquiridos sobre HTML5 y estructura semántica para desarrollar un sitio web básico que represente un emprendimiento real, utilizando buenas prácticas de organización y presentación de contenido web.
+
+## Evidencias de la creación del proyecto
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/a69324bd-22c6-4c76-998d-c90fe8485354" />
+
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/8758781c-c401-495e-ad36-313f34ebc943" />
+
