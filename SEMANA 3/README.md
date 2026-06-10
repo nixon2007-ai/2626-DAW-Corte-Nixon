@@ -10,13 +10,13 @@ La página presenta información sobre el emprendimiento, sus productos y servic
 
 * Estructura completa en HTML5.
 * Uso de etiquetas semánticas:
- - Header
- - Nav
- - Main
- - Section
- - Article
- - Aside
- - Footer
+ - -Header
+ - -Nav
+ - -Main
+ - -Section
+ - -Article
+ - -Aside
+ - -Footer
 * Menú de navegación interno.
 * Sección de presentación del proyecto.
 * Información institucional (Quiénes Somos).
